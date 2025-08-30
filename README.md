@@ -117,3 +117,4 @@ if __name__ == "__main__":
     data = compute_indicators(data)
     data = backtest(data)
     plot_results(data)
+if ---- mahdi
