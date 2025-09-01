@@ -118,3 +118,4 @@ if __name__ == "__main__":
     data = backtest(data)
     plot_results(data)
 if ---- mahdi
+binance
