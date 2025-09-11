@@ -11,7 +11,7 @@ This repository includes:
 1. A collection of English prompts about financial markets & trading.
 2. A simple Python script for backtesting a trading strategy (SMA crossover + RSI).
 """
-
+trade
 # ================================
 # Section 1: Prompts
 # ================================
