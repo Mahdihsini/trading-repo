@@ -120,5 +120,3 @@ if ---- mahdi
 plt.figur
 if i were you ... i will ...
 hello
-have a great day
-kebfwbel
