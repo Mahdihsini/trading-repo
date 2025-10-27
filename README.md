@@ -118,5 +118,3 @@ if __name__ == "__main__":
     plot_results(data)
 if ---- mahdi
 plt.figur
-if i were you ... i will ...
-hello
