@@ -118,3 +118,4 @@ if __name__ == "__main__":
     plot_results(data)
 if ---- mahdi
 plt.figur
+Propose strategies to mitigate risks such as data poisoning, model manipulation, or gaming of the PoI mechanism.
