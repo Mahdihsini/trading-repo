@@ -122,3 +122,4 @@ Propose strategies to mitigate risks such as data poisoning, model manipulation,
 gm
 gmicrochains
 https://x.com/mahdi_hsini/status/2001716846131658820?s=20
+Help me define the world and theme of a new video game.
