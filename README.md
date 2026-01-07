@@ -4,7 +4,7 @@ trading
 Trading Prompts & Simple Backtester
 -----------------------------------
 
-GitHub Repository: trading-prompts-and-strategy
+GitHub Repository: trading-prompts-and-
 Author: Your Name
 License: MIT
 This repository includes:
