@@ -121,4 +121,3 @@ plt.figur
 Propose strategies to mitigate risks such as data poisoning, model manipulation, or gaming of the PoI mechanism.
 gm
 gmicrochains
-https://x.com/mahdi_hsini/status/2001716846131658820?s=20
